@@ -39,7 +39,7 @@ import { IS_STAGING_OR_DEVELOPMENT } from "./util/getBuildType";
 import TabFocusTrackerWrapper from "./components/TabFocusTrackerWrapper";
 
 // ### BEGIN CUSTOMIZABLE IMPORTS ###
-import firebaseConfig from "./config/firebaseConfig.js";
+import config from "./config/firebaseConfig.js";
 import skillModel from "./content-sources/oatutor/skillModel.json";
 import defaultBKTParams from "./content-sources/oatutor/bkt-params/defaultBKTParams.json";
 import experimentalBKTParams from "./content-sources/oatutor/bkt-params/experimentalBKTParams.json";
