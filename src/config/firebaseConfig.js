@@ -1,11 +1,12 @@
-
-const firebaseConfig = {
-    apiKey: "AIzaSyAmMK9WfMnEqj0BVq5-zSVg52-chI0Cu38",
-    authDomain: "ile-test.firebaseapp.com",
-    projectId: "ile-test",
-    storageBucket: "ile-test.firebasestorage.app",
-    messagingSenderId: "658156884223",
-    appId: "1:658156884223:web:58f18d2a1fbbbb48f67cca",
-    measurementId: "G-QH0TLMXBPM"
+const config = {
+    apiKey: "[apikey]",
+    authDomain: "[projId].firebaseapp.com",
+    databaseURL: "https://[projId].firebaseio.com",
+    projectId: "[projId]",
+    storageBucket: "[projId].appspot.com",
+    messagingSenderId: "[messagingSenderId]",
+    appId: "[appId]",
+    measurementId: "[measurementId]",
 };
-export default firebaseConfig;
+
+export default config;
