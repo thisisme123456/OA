@@ -46,6 +46,9 @@ jobs:
                 ${{ runner.os }}-build-${{ env.cache-name }}-
                 ${{ runner.os }}-build-
                 ${{ runner.os }}-
+                
+      - name: Update Browserslist database
+        run: npx update-browserslist-db@latest
 
       - name: Run CI install
         run: npm ci
