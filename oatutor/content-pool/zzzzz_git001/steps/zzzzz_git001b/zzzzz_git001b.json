@@ -1,0 +1,16 @@
+{
+    "id": "zzzzz_git001b",
+    "stepAnswer": [
+        "False"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Git is same with Github.",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "False",
+            "True"
+        ],
+    "answerLatex": "False"
+}

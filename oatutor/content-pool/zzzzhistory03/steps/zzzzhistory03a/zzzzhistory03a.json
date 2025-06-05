@@ -1,0 +1,12 @@
+{
+    "id": "zzzzhistory03a",
+    "stepAnswer": [
+        "Isaac Newton"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Who is this wig influencer?",
+    "stepBody": "Hint: He was born in 17th-century.",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "Isaac Newton"
+}

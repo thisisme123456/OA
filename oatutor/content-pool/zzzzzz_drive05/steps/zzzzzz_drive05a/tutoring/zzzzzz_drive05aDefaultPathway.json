@@ -1,0 +1,13 @@
+[
+    {
+        "id": "zzzzzz_drive05a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Lane Change ",
+        "text": "With a solid line as a road edge marking, you must under no circumstances turn right. Rather, you must stay in your lane and continue straight or turn left.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+    
+]

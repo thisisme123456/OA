@@ -1,0 +1,12 @@
+{
+    "id": "zzzzz_git002b",
+    "stepAnswer": [
+        "git status"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "How do you check the status of your repository?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "git status"
+}

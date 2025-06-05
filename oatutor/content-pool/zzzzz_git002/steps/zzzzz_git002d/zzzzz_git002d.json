@@ -1,0 +1,12 @@
+{
+    "id": "zzzzz_git002d",
+    "stepAnswer": [
+        "git commit"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "How do you commit changes with a message?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "git commit"
+}

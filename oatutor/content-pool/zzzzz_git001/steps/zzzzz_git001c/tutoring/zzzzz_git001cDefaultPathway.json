@@ -1,0 +1,48 @@
+[
+    {
+        "id": "zzzzz_git001c-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["git branch new_feature"],
+        "dependencies": [],
+        "title": "New branch creation",
+        "text": "Think of a branch as a separate workspace in your project. It allows you to make changes without affecting the main code. How to create a new branch using the command (use 'new_feature' as the name of the new branch):",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    },
+    {
+        "id": "zzzzz_git001c-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["git checkout new_branch"],
+        "dependencies": [
+            "zzzzz_git001c-h1"
+        ],
+        "title": "New branch creation",
+        "text": "The default branch in Git is usually called 'main' or 'master'. You can use different branches to work on different features. How to switch between branches, use the command (use 'new_feature' as the name of the new branch):",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    },
+    {
+        "id": "zzzzz_git001c-h3",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["git merge new_feature"],
+        "dependencies": [
+            "zzzzz_git001c-h2"
+        ],
+        "title": "New branch creation",
+        "text": "A branch helps you develop new features or fix bugs without changing the main codebase. You can later merge the branch back into the main branch. How to merge your branch into 'main' using:",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    }
+]

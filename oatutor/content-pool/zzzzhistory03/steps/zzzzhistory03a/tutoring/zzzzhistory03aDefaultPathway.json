@@ -1,0 +1,36 @@
+[
+    {
+        "id": "zzzzhistory03a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Name Recognition pt1",
+        "text": "This scientist is known for formulating the laws of motion and universal gravitation.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzhistory03a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzhistory03a-h1"
+        ],
+        "title": "Name Recognition pt2",
+        "text": "He is famous for the story of an apple falling from a tree, which inspired his work on gravity.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzhistory03a-h3",
+        "type": "hint",
+        "dependencies": [
+            "zzzzhistory03a-h2"
+        ],
+        "title": "Name Recognition pt3",
+        "text": "His first name is 'Isaac' and his last name starts with 'N'.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

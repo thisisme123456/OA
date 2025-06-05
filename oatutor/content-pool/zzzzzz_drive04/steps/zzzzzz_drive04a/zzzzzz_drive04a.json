@@ -1,0 +1,19 @@
+{
+    "id": "zzzzzz_drive04a",
+    "stepAnswer": [
+        "  I have to allow the cyclist to pass through",
+        " I have to allow the [motorcyclist] to pass through"
+    ],
+     "problemType": "MultipleChoice",
+    "stepTitle": "What is the right course of action?",
+    "stepBody": "What is the right course of action?",
+    "body": "##drive8.png",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "  I have to allow the cyclist to pass through",
+            "  I have to allow the [motorcyclist] to pass through",
+            " I may make the turn before the cyclist"
+        ],
+    "answerLatex": "  I have to allow the cyclist to pass through and  I have to allow the [motorcyclist] to pass through"
+}

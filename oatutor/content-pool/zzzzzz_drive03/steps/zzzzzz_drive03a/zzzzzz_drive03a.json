@@ -1,0 +1,19 @@
+{
+    "id": "zzzzzz_drive03a",
+    "stepAnswer": [
+        "The green car must wait.",
+        "From the right-turn lane, you may turn right while obeying the traffic signs."
+    ],
+     "problemType": "MultipleChoice",
+    "stepTitle": "Considering the traffic situation and controls at this intersection, which statements describe correct conduct?",
+    "stepBody": "Considering the traffic situation and controls at this intersection, which statements describe correct conduct?",
+    "body": "##drive7.png",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "The green car must wait.",
+            "From the right-turn lane, you may turn right while obeying the traffic signs.",
+            " I may only turn when the lights show green"
+        ],
+    "answerLatex": "The green car must wait and From the right-turn lane, you may turn right while obeying the traffic signs."
+}

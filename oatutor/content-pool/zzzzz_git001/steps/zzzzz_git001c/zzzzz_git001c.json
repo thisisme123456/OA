@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_git001c",
+    "stepAnswer": [
+        "A separate version of the main repository."
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "In Git, a branch is:",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Nothing, it is a nonsense word.",
+            "A separate version of the main repository.",
+            "A secret part of Git config.",
+            "A small wooden stick you can use to type commands."
+        ],
+    "answerLatex": "A separate version of the main repository."
+}

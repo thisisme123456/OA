@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_git001a",
+    "stepAnswer": [
+        "A version control system"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is Git?",
+    "stepBody": "What is Git?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "A programming language",
+            "A version control system",
+            "A nickname for GitHub",
+            "A remote repository platform"
+        ],
+    "answerLatex": "A version control system"
+}

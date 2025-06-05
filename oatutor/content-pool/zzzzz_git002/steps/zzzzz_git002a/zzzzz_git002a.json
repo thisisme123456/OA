@@ -1,0 +1,12 @@
+{
+    "id": "zzzzz_git002a",
+    "stepAnswer": [
+        "git init"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "What command initializes a new Git repository?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "git init"
+}

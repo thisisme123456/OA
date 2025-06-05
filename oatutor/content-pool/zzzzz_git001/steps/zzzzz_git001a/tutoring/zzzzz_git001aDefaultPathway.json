@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_git001a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Why is Git important?",
+        "text": "Git is important in software development life cycle",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_git001a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_git001a-h1"
+        ],
+        "title": "What does Git do?",
+        "text": "Git keeps a 'non-human-readable' database of the files you put under version control ('track') and provides commands to access and update that database",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

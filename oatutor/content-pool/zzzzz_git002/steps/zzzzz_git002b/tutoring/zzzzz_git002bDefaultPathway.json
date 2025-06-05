@@ -1,0 +1,12 @@
+[
+    {
+        "id": "zzzzz_git002b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Hint 1",
+        "text": "'git status' command will show you the different states of files in your working directory and staging area. Which files are modified and unstaged and which are staged but not yet committed. In its normal form, it also will show you some basic hints on how to move files between these stages.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

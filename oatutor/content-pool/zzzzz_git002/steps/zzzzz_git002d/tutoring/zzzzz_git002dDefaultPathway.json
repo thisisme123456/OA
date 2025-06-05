@@ -1,0 +1,12 @@
+[
+    {
+        "id": "zzzzz_git002d-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Hint 1",
+        "text": "The 'git commit' command takes all the file contents that have been staged with 'git add' and records a new permanent snapshot in the database and then moves the branch pointer on the current branch up to it.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

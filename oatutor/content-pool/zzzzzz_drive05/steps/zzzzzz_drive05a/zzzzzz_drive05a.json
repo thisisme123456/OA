@@ -1,0 +1,18 @@
+{
+    "id": "zzzzzz_drive05a",
+    "stepAnswer": [
+        " I continue driving straight ahead or turn left"
+    ],
+     "problemType": "MultipleChoice",
+    "stepTitle": "You have manoeuvred into the left lane by mistake, but would like to take a right turn. What is the right course of action?",
+    "stepBody": "You have manoeuvred into the left lane by mistake, but would like to take a right turn. What is the right course of action?",
+    "body": "##drive.png",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            " I continue driving straight ahead or turn left",
+            " I move carefully into the right-hand lane",
+            " I drive straight ahead and turn right at the intersection"
+        ],
+    "answerLatex": " I continue driving straight ahead or turn left"
+}

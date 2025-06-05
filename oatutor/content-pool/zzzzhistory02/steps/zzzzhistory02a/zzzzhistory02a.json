@@ -1,0 +1,12 @@
+{
+    "id": "zzzzhistory02a",
+    "stepAnswer": [
+        "Albert Einstein"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Who is this guy who forgot to comb his hair?",
+    "stepBody": "Hint: He believed that time is relative... which explains why Mondays fell longer than Sundays. ",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "Albert Einstein"
+}

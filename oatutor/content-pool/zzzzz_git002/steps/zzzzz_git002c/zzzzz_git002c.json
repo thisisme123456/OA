@@ -1,0 +1,12 @@
+{
+    "id": "zzzzz_git002c",
+    "stepAnswer": [
+        "git add"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "What command adds files to the staging area?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "answerLatex": "git add"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "zzzzz_git002",
+    "title": "Basic commands with Git",
+    "body": "Answer the following questions.",
+    "variabilization": {},    
+    "ore": "https://git-scm.com/docs/gittutorial <Git SCM: gittutorial>",
+    "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+    "lesson": "1.2: Introduction to Git",
+    "courseName": "ILE Lab"
+}
