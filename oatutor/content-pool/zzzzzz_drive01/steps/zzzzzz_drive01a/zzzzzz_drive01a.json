@@ -1,12 +1,11 @@
 {
     "id": "zzzzzz_drive01a",
-    "stepAnswer": [
+     "stepAnswer": [
         "I must yield to the motorcycle."
     ],
      "problemType": "MultipleChoice",
     "stepTitle": "What is the right thing to do?",
     "stepBody": "What is the right thing to do?",
-    "body": "##drive1.png",
     "answerType": "string",
     "variabilization": {},
     "choices": [

@@ -1,9 +1,9 @@
 {
     "id": "zzzzzz_drive01",
-    "title": "Road Symbol ",
-    "body": "Answer the following questions.",
+    "title": "How to navigate?",
+    "body": "##drive1.png",
     "variabilization": {},
-    "ore": "",
+    "ore": "https://en.wikipedia.org/wiki/Marie_Curie <Wikipedia: Marie Curie>",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
     "lesson": "1.3: Driving License Theory",
     "courseName": "ILE Lab"
