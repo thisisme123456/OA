@@ -5,8 +5,7 @@
     ],
      "problemType": "MultipleChoice",
     "stepTitle": "You have manoeuvred into the left lane by mistake, but would like to take a right turn. What is the right course of action?",
-    "stepBody": "You have manoeuvred into the left lane by mistake, but would like to take a right turn. What is the right course of action?",
-    "body": "##drive.png",
+    "stepBody": "##drive.png",
     "answerType": "string",
     "variabilization": {},
     "choices": [
