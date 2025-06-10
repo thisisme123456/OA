@@ -1,0 +1,36 @@
+[
+    {
+        "id": "zzzzhistory01a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Name Recognition pt1",
+        "text": "This person was the first woman to win a Nobel Prize and made significant contributions to the study of radioactivity.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzhistory01a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzhistory01a-h1"
+        ],
+        "title": "Name Recognition pt2",
+        "text": "Hint: She is known for discovering radium and polonium, and her name is closely tied to the term 'radioactivity.'",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzhistory01a-h3",
+        "type": "hint",
+        "dependencies": [
+            "zzzzhistory01a-h2"
+        ],
+        "title": "Name Recognition pt3",
+        "text": "She was the first woman to win a Nobel Prize, and she won it in both Physics and Chemistry.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

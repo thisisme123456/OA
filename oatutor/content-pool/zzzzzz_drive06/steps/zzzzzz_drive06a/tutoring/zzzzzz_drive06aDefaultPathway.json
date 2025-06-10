@@ -1,0 +1,23 @@
+[
+    {
+        "id": "zzzzzz_drive06a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Give-way sign",
+        "text": "The upside-down triangle sign means you need to give way to other traffic.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+	{
+        "id": "zzzzzz_drive06a-h2",
+        "type": "hint",
+        "dependencies": ["zzzzzz_drive06a-h1"],
+        "title": "The bus wants to turn left, whereas you want to go straight, so you can go before them.",
+        "text": "The upside-down triangle sign means you need to give way to other traffic.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+    
+]

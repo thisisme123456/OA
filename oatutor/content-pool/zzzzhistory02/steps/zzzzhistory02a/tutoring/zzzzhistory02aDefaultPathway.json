@@ -1,0 +1,36 @@
+[
+    {
+        "id": "zzzzhistory02a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Name Recognition pt1",
+        "text": "This scientist developed the theory of relativity, which changed how we understand time and space.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzhistory02a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzhistory02a-h1"
+        ],
+        "title": "Name Recognition pt2",
+        "text": "He is known for the equation $$E=mc^2$$.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzhistory02a-h3",
+        "type": "hint",
+        "dependencies": [
+            "zzzzhistory02a-h2"
+        ],
+        "title": "Name Recognition pt3",
+        "text": "His first name is 'Albert' and his last name starts with 'E'.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

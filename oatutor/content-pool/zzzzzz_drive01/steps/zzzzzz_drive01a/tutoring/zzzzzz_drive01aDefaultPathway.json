@@ -1,0 +1,39 @@
+[
+    {
+        "id": "zzzzzz_drive01a-h1",
+        "type": "scaffold",
+        "body":"##drive2.png",
+        "problemType": "TextBox",
+        "answerType": "string",
+        "hintAnswer": ["yes"],
+        "dependencies": [],
+        "title": "Do I need to signal if I’m turning left while following the priority road?",
+        "text": "",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzzz_drive01a-h2",
+        "body":"##drive3.png",
+        "type": "scaffold",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
+        "hintAnswer": ["Yield to other traffic"],
+        "dependencies": [
+            "zzzzzz_drive01a-h1"
+        ],
+        "title": "What does the upside-down triangle traffic sign indicate?",
+        "text": "",
+        "variabilization": {},
+        "choices": [
+            "Stop completely before proceeding.",
+            "Yield to other traffic",
+            "Priority road ahead",
+            "No entry"
+        ],
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    }
+]

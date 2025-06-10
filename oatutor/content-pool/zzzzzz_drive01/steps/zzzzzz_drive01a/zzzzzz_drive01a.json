@@ -1,0 +1,16 @@
+{
+    "id": "zzzzzz_drive01a",
+     "stepAnswer": [
+        "I must yield to the motorcycle."
+    ],
+     "problemType": "MultipleChoice",
+    "stepTitle": "What is the right thing to do?",
+    "stepBody": "What is the right thing to do?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "I must yield to the motorcycle.",
+            "I’m allowed to go before the blue car."
+        ],
+    "answerLatex": "I must yield to the motorcycle."
+}

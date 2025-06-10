@@ -1,0 +1,14 @@
+{
+    "traffic_signs_and_signals": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "rules_of_the_road": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    }
+}

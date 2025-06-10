@@ -1,0 +1,12 @@
+[
+    {
+        "id": "zzzzz_git002c-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Hint 1",
+        "text": "The 'git add' command adds content from the working directory into the staging area (or “index”) for the next commit. 'git add' is used to craft what exactly you would like your next commit snapshot to look like.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

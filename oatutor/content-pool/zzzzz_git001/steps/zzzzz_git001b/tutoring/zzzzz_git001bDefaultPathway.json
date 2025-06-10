@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzz_git001b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "What is the difference between Git and GitHub?",
+        "text": "Git is a version control system that helps track changes in code, while GitHub is an online platform that hosts repositories.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_git001b-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_git001b-h1"
+        ],
+        "title": "What is the relationship between Git and GitHub",
+        "text": "You can use Git without GitHub, but GitHub requires Git to manage code effectively.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

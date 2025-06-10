@@ -1,0 +1,24 @@
+[
+    {
+        "id": "zzzzzz_drive03a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Look at the traffic light the green car is facing. What does that signal require the green car to do?",
+        "text": "Sign The green car must stop and wait.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzzz_drive03a-h2",
+        "type": "hint",
+        "dependencies": [],
+        "title": " Look at the lane to the right of the green car, which has a curved arrow and a sign. If you were in that lane, how would you determine when you can turn?",
+        "text": "You would obey the traffic sign (the yield sign).",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    }
+    
+]
