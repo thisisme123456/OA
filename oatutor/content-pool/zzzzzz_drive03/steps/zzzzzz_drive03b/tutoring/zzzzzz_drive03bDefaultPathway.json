@@ -1,0 +1,12 @@
+[
+    {
+        "id": "zzzzzz_drive03b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Look at the traffic light the green car is facing. What does that signal require the green car to do?",
+        "text": "The green car must stop and wait.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]

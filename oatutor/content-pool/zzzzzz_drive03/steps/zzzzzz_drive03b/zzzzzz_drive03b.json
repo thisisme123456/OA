@@ -1,0 +1,16 @@
+{
+    "id": "zzzzzz_drive03b",
+    "stepAnswer": [
+        "The green car must wait."
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which is correct?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+        "choices": [
+            "The Green car does not have to wait.",
+            "The green car must wait."
+        ],
+    "answerLatex": "The green car must wait."
+}
