@@ -52,7 +52,12 @@
     "zzzzzz_drive04a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
-    ],"zzzzzz_drive05a": [
+    ],
+	"zzzzzz_drive05a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],
+	"zzzzzz_drive06a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ]

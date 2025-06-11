@@ -1,4 +1,52 @@
 {
+    "historical_context": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "research_significance": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "basic_git_concepts": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "basic_git_operations": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "branching_and_merging": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "remote_repositories": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "undoing_changes": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
+    "collaboration_and_workflows": {
+        "probMastery": 0.57,
+        "probTransit": 0.18,
+        "probSlip": 0.2,
+        "probGuess": 0.23
+    },
     "traffic_signs_and_signals": {
         "probMastery": 0.57,
         "probTransit": 0.18,

@@ -1,11 +1,11 @@
 {
-    "id": "zzzzzz_drive05a",
+    "id": "zzzzzz_drive06a",
     "stepAnswer": [
         "Motorcycle, Me, Bus"
     ],
      "problemType": "MultipleChoice",
     "stepTitle": "In which order should each driver go?",
-    "body": "##drive.png",
+    "stepBody": "What should you do?",
     "answerType": "string",
     "variabilization": {},
     "choices": [
