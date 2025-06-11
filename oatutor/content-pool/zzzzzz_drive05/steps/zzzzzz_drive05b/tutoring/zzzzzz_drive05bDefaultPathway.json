@@ -1,0 +1,23 @@
+[
+    {
+        "id": "zzzzzz_drive05b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Lane Change ",
+        "text": "Drive as far to the right as possible when you encounter a horse-drawn carriage.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzzz_drive05b-h2",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Lane Change ",
+        "text": "Do not honk and do not drive at high motor speed. The animals could be sensitive to noise and be frightened. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+
+]
