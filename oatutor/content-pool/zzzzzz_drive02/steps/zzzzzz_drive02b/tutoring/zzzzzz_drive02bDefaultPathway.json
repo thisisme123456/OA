@@ -1,0 +1,34 @@
+[
+    {
+        "id": "zzzzzz_drive02b-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Sign Recognition",
+        "text": "The sign warns you of a double bend.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzzz_drive02b-h2",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Sign Recognition",
+        "text": "First expect a right turn, then a left turn. You could drive onto the oncoming lane. ",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    },
+    {
+        "id": "zzzzzz_drive02b-h3",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Sign Recognition",
+        "text": "Adjust your speed and drive far to the right to avoid collision with oncoming traffic.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+
+    }
+]
