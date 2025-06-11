@@ -4,9 +4,9 @@
         "Greatest alertness","Readiness to brake","Reduction in speed"
     ],
      "problemType": "MultipleChoice",
-    "stepTitle": "What do you do when you see these traffic signs?",
-    "stepBody": "zzzzzz_drive02a",
-    "answerType": "string",
+    
+    "stepBody": "##drive02a.png",
+    "answerType": "string[]",
     "variabilization": {},
     "choices": [
             "Greatest alertness",
