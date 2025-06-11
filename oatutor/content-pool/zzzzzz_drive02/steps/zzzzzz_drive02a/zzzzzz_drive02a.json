@@ -5,8 +5,7 @@
     ],
      "problemType": "MultipleChoice",
     "stepTitle": "What do you do when you see these traffic signs?",
-    "stepBody": "What do you do when you see these traffic signs?",
-    "body": "##drive4.png",
+    "stepBody": "##drive4.png",
     "answerType": "string",
     "variabilization": {},
     "choices": [

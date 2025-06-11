@@ -37,19 +37,23 @@
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
-    "zzzzzz_drive02": [
+    "zzzzzz_drive02a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
-    "zzzzzz_drive03": [
+    "zzzzzz_drive03a": [
+        "traffic_signs_and_signals",
+        "rules_of_the_road"
+    ],    
+    "zzzzzz_drive03b": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
-    "zzzzzz_drive04": [
+    "zzzzzz_drive04a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
-	"zzzzzz_drive05": [
+	"zzzzzz_drive05a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],

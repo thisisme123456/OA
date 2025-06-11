@@ -6,8 +6,7 @@
     ],
      "problemType": "MultipleChoice",
     "stepTitle": "What is the right course of action?",
-    "stepBody": "What is the right course of action?",
-    "body": "##drive8.png",
+    "stepBody": "##drive8.png",
     "answerType": "string",
     "variabilization": {},
     "choices": [
