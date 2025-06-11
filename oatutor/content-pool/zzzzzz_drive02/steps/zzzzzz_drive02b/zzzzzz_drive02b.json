@@ -4,9 +4,9 @@
         "Reduce your speed","Drive as far as possible over on the right-hand side","Accelerate strongly immediately after the right bend"
     ],
      "problemType": "MultipleChoice",
-    "stepTitle": "What do you do when you see these traffic signs?",
-    "stepBody": "zzzzzz_drive02b",
-    "answerType": "string",
+    
+    "stepBody": "##drive02b.png",
+    "answerType": "string[]",
     "variabilization": {},
     "choices": [
             "Reduce your speed",
