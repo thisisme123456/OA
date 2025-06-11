@@ -5,7 +5,7 @@
     ],
      "problemType": "MultipleChoice",
     "stepTitle": "In which order should each driver go?",
-    "body": "##drive.png",
+    "stepBody": "What should you do?",
     "answerType": "string",
     "variabilization": {},
     "choices": [
