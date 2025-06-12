@@ -1,18 +1,17 @@
 {
     "id": "zzzzzz_drive04a",
     "stepAnswer": [
-        "  I have to allow the cyclist to pass through",
-        " I have to allow the [motorcyclist] to pass through"
+        "At crossroads and junctions"
     ],
-     "problemType": "MultipleChoice",
-    "stepTitle": "What is the right course of action?",
-    "stepBody": "##drive8.png",
+    "problemType": "MultipleChoice",
+    "stepTitle": "At which places where there are no traffic signs regulating priority does the rule right before left apply?",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "  I have to allow the cyclist to pass through",
-            "  I have to allow the [motorcyclist] to pass through",
-            " I may make the turn before the cyclist"
+            "At crossroads and junctions",
+            "At driveways",
+            "At the end of a traffic calmed area"
         ],
-    "answerLatex": "  I have to allow the cyclist to pass through and  I have to allow the [motorcyclist] to pass through"
+    "answerLatex": "At crossroads and junctions"
 }
+

@@ -1,19 +1,14 @@
 {
     "id": "zzzzzz_drive05b",
     "stepAnswer": [
-        "Avoid making noise","drive as far to the right as possible"
+        "Avoid making noise and drive as far to the right as possible."
     ],
-     "problemType": "MultipleChoice",
+     "problemType": "TextBox",
     "stepTitle": "A horse-drawn carriage is coming towards you. What should you do?",
     "stepBody": "##drive.png",
     "answerType": "string",
     "variabilization": {},
-    "choices": [
-            "Avoid making noise",
-            "drive as far to the right as possible",
-            "switch on parking light"
-        ],
     "answerLatex": [
-        "Avoid making noise","drive as far to the right as possible"
+        "Avoid making noise and drive as far to the right as possible."
     ]
 }
