@@ -1,6 +1,6 @@
 [
     {
-        "id": "zzzzzz_drive41a-h1",
+        "id": "zzzzzz_drive04a-h1",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -22,7 +22,7 @@
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
-        "hintAnswer": ["Yield to other Wait, observe and come to an agreement with others, if necessary"],
+        "hintAnswer": ["Wait, observe and come to an agreement with others, if necessary."],
         "dependencies": [
             "zzzzzz_drive04a-h1"
         ],
