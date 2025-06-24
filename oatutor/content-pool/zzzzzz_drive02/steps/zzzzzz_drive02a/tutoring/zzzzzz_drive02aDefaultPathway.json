@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Sign Recognition",
-        "text": "The sign will point you to a school, kindergarten or playground nearby.",
+        "text": "Use capital letters (A, B, C).Separate options with commas (no spaces).",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -12,9 +12,9 @@
     {
         "id": "zzzzzz_drive02a-h2",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": ["zzzzzz_drive02a-h1"],
         "title": "Sign Recognition",
-        "text": "Here you have to drive with adapted speed and increased attention. ",
+        "text": "The sign will point you to a school, kindergarten or playground nearby.Here you have to drive with adapted speed and increased attention. ",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -23,7 +23,7 @@
     {
         "id": "zzzzzz_drive02a-h3",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": ["zzzzzz_drive02a-h2"],
         "title": "Sign Recognition",
         "text": "Children could suddenly run onto the road without paying attention to the traffic. Always be ready to brake.",
         "variabilization": {},

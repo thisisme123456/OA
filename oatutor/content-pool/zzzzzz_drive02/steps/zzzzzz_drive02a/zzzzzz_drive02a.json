@@ -1,17 +1,17 @@
 {
     "id": "zzzzzz_drive02a",
     "stepAnswer": [
-        "Greatest alertness","Readiness to brake","Reduction in speed"
+        "A, B, C"
     ],
-     "problemType": "MultipleChoice",
-    "stepTitle": "What do you do when you see these traffic signs?",
-    "stepBody": "##drive02a.png",
+     "problemType": "TextBox",
+    "stepTitle":"##drive02a.png",
+    "stepBody": "A. Greatest alertness. B. Readiness to brake. C. Reduction in speed",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "Greatest alertness",
-            "Readiness to brake",
-            "Reduction in speed"
+            "A.Greatest alertness",
+            "B.Readiness to brake",
+            "C.Reduction in speed"
         ],
-    "answerLatex": "A, B and C"
+    "answerLatex": "A, B, C"
 }
