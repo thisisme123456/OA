@@ -1,11 +1,11 @@
 {
     "id": "zzzzzz_drive02c",
     "stepAnswer": [
-        "Reduce your speed","Refrain from overtaking","Always stop before the road narrows"
+        "A,B"
     ],
-     "problemType": "MultipleChoice",
-    "stepTitle": "What do you do when you see these traffic signs?",
-    "stepBody": "##drive02c.png",
+     "problemType": "TextBox",
+    "stepTitle":"##drive02c.png",
+    "stepBody": "A.Reduce your speed.B.Refrain from overtaking.C.Always stop before the road narrows",
     "answerType": "string",
     "variabilization": {},
     "choices": [
@@ -13,5 +13,5 @@
             "Refrain from overtaking",
             "Always stop before the road narrows"
         ],
-    "answerLatex": "A and B"
+    "answerLatex": "A,B"
 }

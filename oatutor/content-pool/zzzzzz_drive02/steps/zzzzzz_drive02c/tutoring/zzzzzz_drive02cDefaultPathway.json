@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Sign Recognition",
-        "text": "This is a warning sign and it warns drivers of an imminent narrowing of the road.",
+        "text": "Use capital letters (A, B, C).Separate options with commas (no spaces).This is a warning sign and it warns drivers of an imminent narrowing of the road.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -12,7 +12,7 @@
     {
         "id": "zzzzzz_drive02c-h2",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": ["zzzzzz_drive02c-h1"],
         "title": "Sign Recognition",
         "text": "Stopping in front of the bottleneck is only required if an oncoming vehicle is already in the bottleneck. ",
         "variabilization": {},
@@ -23,7 +23,7 @@
     {
         "id": "zzzzzz_drive02c-h3",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": ["zzzzzz_drive02c-h2"],
         "title": "Sign Recognition",
         "text": "You have to expect oncoming traffic and behave as follows: Reduce your speed and refrain from overtaking maneuvers. ",
         "variabilization": {},

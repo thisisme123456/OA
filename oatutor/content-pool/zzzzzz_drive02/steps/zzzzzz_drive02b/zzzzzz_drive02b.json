@@ -1,11 +1,11 @@
 {
     "id": "zzzzzz_drive02b",
     "stepAnswer": [
-        "Reduce your speed","Drive as far as possible over on the right-hand side","Accelerate strongly immediately after the right bend"
+        "A, B, C"
     ],
-     "problemType": "MultipleChoice",
-    "stepTitle": "What do you do when you see these traffic signs?",
-    "stepBody": "##drive02b.png",
+     "problemType": "TextBox",
+    "stepTitle":"##drive02b.png",
+    "stepBody": "A.Reduce your speed.B.Drive as far as possible over on the right hand side.C.Accelerate strongly immediately after the right bend",
     "answerType": "string",
     "variabilization": {},
     "choices": [
@@ -13,5 +13,5 @@
             "Drive as far as possible over on the right hand side",
             "Accelerate strongly immediately after the right bend"
         ],
-    "answerLatex": "A, B and C"
+    "answerLatex": "A, B, C"
 }
