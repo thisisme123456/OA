@@ -5,13 +5,13 @@
     ],
      "problemType": "TextBox",
     "stepTitle":"##drive02c.png",
-    "stepBody": "A.Reduce your speed.B.Refrain from overtaking.C.Always stop before the road narrows",
+    "stepBody": "##Choice02c.png",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "Reduce your speed",
-            "Refrain from overtaking",
-            "Always stop before the road narrows"
+            "  C.Always stop before the road narrows",
+            "  B.Refrain from overtaking",
+            "  A.Reduce your speed"
         ],
     "answerLatex": "A,B"
 }
