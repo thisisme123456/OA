@@ -2,7 +2,6 @@
     {
         "id": "zzzzzz_drive01a-h1",
         "type": "scaffold",
-        "body":"##drive2.png",
         "problemType": "TextBox",
         "answerType": "string",
         "hintAnswer": ["yes"],
@@ -15,7 +14,6 @@
     },
     {
         "id": "zzzzzz_drive01a-h2",
-        "body":"##drive3.png",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",

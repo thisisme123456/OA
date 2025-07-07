@@ -1,41 +1,13 @@
 [
     {
-        "id": "zzzzzz_drive41a-h1",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": [" At crossroads and junctions"],
+        "id": "zzzzzz_drive04a-h1",
+        "type": "hint",
         "dependencies": [],
-        "title": " At which places where there are no traffic signs regulating priority does the rule right before left apply?",
-        "text": "",
+        "title": "Hints ",
+        "text": "At intersections and T-junctions without a traffic-regulating traffic sign \"left yields to right\" applies. If a vehicle leaves a property or a restricted traffic area, all other road users, including pedestrians and children on the sidewalk, have priority.",
         "variabilization": {},
-        "choices": [
-            " At crossroads and junctions",
-            "At driveways",
-            "At the end of a traffic calmed area"
-        ],
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-    },
-    {
-        "id": "zzzzzz_drive04a-h2",
-        "type": "scaffold",
-        "problemType": "MultipleChoice",
-        "answerType": "string",
-        "hintAnswer": ["Yield to other Wait, observe and come to an agreement with others, if necessary"],
-        "dependencies": [
-            "zzzzzz_drive04a-h1"
-        ],
-        "title": "You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?",
-        "text": "",
-        "variabilization": {},
-        "choices": [
-            "Wait, observe and come to an agreement with others, if necessary.",
-            "Proceed according to the rule right before left",
-            "Always proceed when driving straight ahead"
-        ],
-        "oer": "https://OATutor.io <OATutor>",
-        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
-
     }
+    
 ]

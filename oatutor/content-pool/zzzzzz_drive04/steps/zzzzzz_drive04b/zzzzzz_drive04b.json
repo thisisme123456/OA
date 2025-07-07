@@ -1,0 +1,17 @@
+{
+    "id": "zzzzzz_drive04b",
+    "stepAnswer": [
+        "Wait, observe and come to an agreement with others, if necessary."
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?",
+    "stepBody": "",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Wait, observe and come to an agreement with others, if necessary.",
+            "Proceed according to the rule right before left",
+            "Always proceed when driving straight ahead"
+        ],
+    "answerLatex": "Wait, observe and come to an agreement with others, if necessary."
+}

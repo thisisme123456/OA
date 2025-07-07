@@ -1,17 +1,17 @@
 {
     "id": "zzzzzz_drive02c",
     "stepAnswer": [
-        "Reduce your speed","Refrain from overtaking","Always stop before the road narrows"
+        "A,B"
     ],
-     "problemType": "MultipleChoice",
-    
-    "stepBody": "##drive02c.png",
-    "answerType": "string[]",
+     "problemType": "TextBox",
+    "stepTitle":"##drive02c.png",
+    "stepBody": "##Choice02c.png",
+    "answerType": "string",
     "variabilization": {},
     "choices": [
-            "Reduce your speed",
-            "Refrain from overtaking",
-            "Always stop before the road narrows"
+            "  C.Always stop before the road narrows",
+            "  B.Refrain from overtaking",
+            "  A.Reduce your speed"
         ],
-    "answerLatex": "A and B"
+    "answerLatex": "A,B"
 }

@@ -1,17 +1,17 @@
 {
     "id": "zzzzzz_drive02a",
     "stepAnswer": [
-        "Greatest alertness","Readiness to brake","Reduction in speed"
+        "A, B, C"
     ],
-     "problemType": "MultipleChoice",
-    
-    "stepBody": "##drive02a.png",
-    "answerType": "string[]",
+     "problemType": "TextBox",
+    "stepTitle":"##drive02a.png",
+    "stepBody": "##Choice02a.png",
+    "answerType": "string",
     "variabilization": {},
     "choices": [
-            "Greatest alertness",
-            "Readiness to brake",
-            "Reduction in speed"
+            "  A.Greatest alertness",
+            "  B.Readiness to brake",
+            "  C.Reduction in speed"
         ],
-    "answerLatex": "A, B and C"
+    "answerLatex": "A, B, C"
 }
