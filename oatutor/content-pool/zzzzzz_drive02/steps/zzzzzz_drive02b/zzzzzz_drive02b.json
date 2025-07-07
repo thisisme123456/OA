@@ -5,13 +5,13 @@
     ],
      "problemType": "TextBox",
     "stepTitle":"##drive02b.png",
-    "stepBody": "##Choice02b.png",
+    "stepBody": "A.Reduce your speed.B.Drive as far as possible over on the right hand side.C.Accelerate strongly immediately after the right bend",
     "answerType": "string",
     "variabilization": {},
     "choices": [
-            "  C.Reduce your speed",
-            "  B.Drive as far as possible over on the right hand side",
-            "  A.Accelerate strongly immediately after the right bend"
+            "Reduce your speed",
+            "Drive as far as possible over on the right hand side",
+            "Accelerate strongly immediately after the right bend"
         ],
     "answerLatex": "A, B, C"
 }
