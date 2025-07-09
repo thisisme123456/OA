@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Lane Change ",
-        "text": "Drive as far to the right as possible when you encounter a horse-drawn carriage.",
+        "text": "Drive as far to the right as possible when you encounter a horse-drawn carriage quitely.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

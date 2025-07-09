@@ -5,6 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?",
+    "stepBody": "",
     "answerType": "string",
     "variabilization": {},
     "choices": [
